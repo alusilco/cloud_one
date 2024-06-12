@@ -9,6 +9,10 @@
   --sombreado: 2px 5px 5px #999;
 }
 
+.img1{
+  width: 20%;
+}
+
 * {
   margin: 0;
   padding: 0;
