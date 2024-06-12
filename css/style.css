@@ -13,6 +13,11 @@
   width: 20%;
   flex-direction: row;
 }
+
+.img1:hover{
+  transform: scale(1.1);
+}
+
 .centrado{
   display: flex;
   flex-direction: row;
@@ -20,8 +25,8 @@
   justify-content: center;
   margin-bottom: 4rem;
   margin-left: 2rem;
-
 }
+
 .section2{
   display: flex;
   flex-wrap: wrap;
