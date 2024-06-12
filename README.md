@@ -1,4 +1,9 @@
-# Final Project: AWS Cloud at Factory F5
+<div align="center">
+ 
+  <h1>Final Project: AWS Cloud at Factory F5</h1>
+  <img src="img/aws.png" alt="Cloud" width="40" height="40">
+</div>
+
 
 ## Challenge 1: Setting up a Static Website on Amazon S3
 
@@ -67,15 +72,15 @@ Recreate the same static website from S3 on three EC2 instances within the same 
 
 ## Team Members:
 
-  - LinkedIn: [Guadalupe Hani](www.linkedin.com/in/guadalupe-hani/)
+  - LinkedIn: [Guadalupe Hani](https://www.linkedin.com/in/guadalupe-hani/)
 
   - LinkedIn: [Daniela Aguirre](https://www.linkedin.com/in/ruth-daniela-aguirre/)
   - LinkedIn: [Ana Lucía Silva Córdoba](https://www.linkedin.com/in/ana-lucia-silva-cordoba/)
 
-  - LinkedIn: [Susana Cortés](www.linkedin.com/in/susanacortésarroyo/)
+  - LinkedIn: [Susana Cortés](https://www.linkedin.com/in/susanacort%C3%A9sarroyo/)
 
   - LinkedIn: [Annie Moneva](https://www.linkedin.com/in/antoaneta-moneva-428a17a2/)
   - LinkedIn: [Carolina Fuentes](https://www.linkedin.com/in/carolina-bolivar-ab9028208/)
-  - LinkedIn: [Mohamed Alisawi](https://www.linkedin.com/in/mohamedalisawi/)
+  - LinkedIn: [Mohamed Alisawi](https://www.linkedin.com/in/mohammed-alisawi-aloroza/)
 
 
