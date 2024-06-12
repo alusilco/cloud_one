@@ -11,7 +11,27 @@
 
 .img1{
   width: 20%;
+  flex-direction: row;
 }
+.centrado{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 4rem;
+  margin-left: 2rem;
+
+}
+.section2{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;    
+  width: 100%;
+
+}
+
 
 * {
   margin: 0;
@@ -195,11 +215,11 @@ button:hover {
   align-items: center; 
   justify-content: center; 
   text-align: center; 
-  
 }
 
 .centrado1 {
   width: 60%; 
   margin: 0 auto; 
   text-align: center; 
+
 }
